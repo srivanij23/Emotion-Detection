@@ -1,3 +1,4 @@
+# Emotion_Detection_CNN
 Emotion Detection using Deep Learning to recognize human emotions( happiness, sadness, surprise, and anger)from facial expressions. The model uses a Convolutional Neural Network (CNN) for training and prediction, leveraging OpenCV and Keras for image preprocessing and model operations.
 
 Features:
