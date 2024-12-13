@@ -15,7 +15,7 @@ The model architecture used for emotion detection is a Convolutional Neural Netw
   3. Dense Layers: Fully connected layers for classification.
   4. Softmax Output Layer: To classify the input image into one of the predefined emotions.
 
-# Emotion_Detection_CNN
+
 Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
 Contributors
